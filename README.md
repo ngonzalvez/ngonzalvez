@@ -1,12 +1,9 @@
-<h1 align="center">Hi there! I am <a  href="ncode.uy">Nico</b></h1>
-&nbsp;
+<h3 align="center">Hi there! I am <a  href="ncode.uy">Nico</b></h3>
+  
 <p align="center">🌍 Full-stack Software Developer</p>
 <p align="center">🚀 Currently looking for open positions</p>
+<h1></h1>
 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 &nbsp;
 <h3>What I do</h3>
 <p>💻 I love crafting seamless web experiences!</p>
@@ -15,16 +12,11 @@
 <p>🌟 Startups are my playground</p>
 
 &nbsp;
-&nbsp;
-&nbsp;
 <h3>What I believe</h3>
 <p>🔑 Motivation is Key: Finding joy in your work is the secret sauce.</p>
 <p>🛠 Sharpen the Saw: Develop your own tools and automate.</p>
 <p>🤝 Trust: In the dev squad, trust is like super glue. It's what keeps us celebrating wins together.</p>
 
-
-&nbsp;
-&nbsp;
 &nbsp;
 <h3>What I use</h3>
 
@@ -52,7 +44,6 @@
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
-&nbsp;
 &nbsp;
 &nbsp;
 <p align="center">"Code is like humor. When you have to explain it, it’s bad." - Cory House</p>
